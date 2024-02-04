@@ -1,0 +1,18 @@
+[
+  {
+    "no": 1,
+    "book_no": 1,
+    "quote": "Every single second we're getting closer to death",
+    "category": ["self-help"],
+    "keyword": ["death"],
+    "details": [{ "author": "Darius Foroux", "page": 10 }]
+  },
+  {
+    "no": 2,
+    "book_no": 1,
+    "quote": "Every second we invest in something is time that we can never get back",
+    "category": "self-help",
+    "keyword": ["death", "time"],
+    "details": [{ "author": "Darius Foroux", "page": 10 }]
+  }
+]
