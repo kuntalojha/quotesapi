@@ -1,5 +1,19 @@
 [
   {
+    "book_no": 0,
+    "name": "Made By Kuntal",
+    "type": ["motivation", "self helf"],
+    "author": "Kuntal Ojha",
+    "total_page": false,
+    "price": false,
+    "buying_details": {
+      "type": false,
+      "place": false,
+      "shop_name": false,
+      "shop_location": false
+    }
+  },
+  {
     "book_no": 1,
     "name": "Do It Today",
     "type": ["self helf"],
