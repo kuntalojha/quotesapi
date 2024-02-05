@@ -1,0 +1,23 @@
+[
+  {
+    "book_no": 1,
+    "name": "Do It Today",
+    "type": ["self helf"],
+    "author": "Darius Foroux",
+    "total_page": 158,
+    "price": 164,
+    "buying_details": {
+      "type": "Online",
+      "place": "Flipkart",
+      "shop_name": false,
+      "shop_location": false
+    },
+    "contents": {
+      "part-I": "Overcoming Procrastination",
+      "part-II": "Improving Productivity",
+      "part-III": "Achieving More"
+    },
+    "summary": "",
+    "summary_author": "Kuntal Ojha"
+  }
+]

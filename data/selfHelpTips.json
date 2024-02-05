@@ -1,0 +1,49 @@
+[
+  {
+    "no": 1,
+    "book_no": 1,
+    "topic": "Do It today, Not tomorrow.",
+    "sub_topic": [null],
+    "pages": "5-6",
+    "tips": [
+      "I exercise my mental toughness every day.",
+      "I exercise my body every day.",
+      "I have a set of daily habits that help me to be in control of my life.",
+      "I always have a list of small (but important)tasks that I have to complete.",
+      "I study and practice the science of persuasion to get my message across."
+    ]
+  },
+  {
+    "no": 2,
+    "book_no": 1,
+    "topic": "What I Do When I can,t focus.",
+    "sub_topic": [
+      "Eliminate. Eliminate. Eliminate",
+      "Think About Past Success"
+    ],
+    "pages": "7-11",
+    "tips": [
+      "Eliminate. Eliminate. Eliminate.",
+      "Think About Past Success",
+      "To improve your focus, boost your serotonin activity.Research shows that exercise can do that.",
+      " But something else, that's equally effective, and a lot easier is a simple mind-exercise.",
+      "All you need to do is remember positive events that happened in the past.",
+      "When serotonin goes up, your focus goes up. Ultimately, that's what you should do. I know that it sounds cheesy, but when something is wrong, you must fix it.",
+      "When I can't focus, the first thing I do is to acknowledge that I have a problem that needs a solution. Some people go through life without even acknowledging that they have problems.",
+      "1. No, it's not normal to check your phone every 2 minutes.",
+      "2. No, it's not normal to gossip all the time.",
+      "3. No, it's not normal to be bored."
+    ]
+  },
+  {
+    "no": 3,
+    "book_no": 1,
+    "topic": "How to beat procrastination - Backed by Science.",
+    "sub_topic": [
+      "Beating Peocrastination",
+      "Willpower Doesn't Work. Systems Do."
+    ],
+    "pages": "12-",
+    "tips": [""]
+  }
+]

@@ -62,5 +62,37 @@
     "category": ["self-help", "motivation"],
     "keyword": ["responsibility", "today"],
     "details": [{ "author": "Abraham Lincoln", "page": false }]
+  },
+  {
+    "no": 9,
+    "book_no": 1,
+    "quote": "Resistance is always lying and always full of shit.",
+    "category": ["motivation"],
+    "keyword": ["lying"],
+    "details": [{ "author": "Darius Foroux", "page": 5 }]
+  },
+  {
+    "no": 10,
+    "book_no": 1,
+    "quote": "Do It Today. Not Tomorrow.",
+    "category": ["motivation"],
+    "keyword": ["today"],
+    "details": [{ "author": "Darius Foroux", "page": 5 }]
+  },
+  {
+    "no": 11,
+    "book_no": 1,
+    "quote": "Work on it today.Not tomorrow.",
+    "category": ["motivation"],
+    "keyword": ["today"],
+    "details": [{ "author": "Darius Foroux", "page": 6 }]
+  },
+  {
+    "no": 12,
+    "book_no": 1,
+    "quote": "Focus on your life. Think about what matters to you. Then, do those things and don't get distracted — stayon the path. Good luck.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["good", "life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": 11 }]
   }
 ]
