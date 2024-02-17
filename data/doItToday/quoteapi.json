@@ -94,5 +94,150 @@
     "category": ["self-help", "motivation"],
     "keyword": ["good", "life", "think"],
     "details": [{ "author": "Darius Foroux", "page": 11 }]
+  },
+  { "This is a json comment": "start from here today ", "date": "07-02-2024" },
+  {
+    "no": 13,
+    "book_no": 1,
+    "quote": "Procrastination is not innocent behavior. It's a sign of poor self-regulation.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["poor", "procrastination"],
+    "details": [{ "author": "Darius Foroux", "page": 14 }]
+  },
+  {
+    "no": 14,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 15,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 16,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 17,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 18,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 19,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 20,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 21,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 22,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 23,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 24,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 25,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 26,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 27,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 28,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 29,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 30,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
   }
 ]

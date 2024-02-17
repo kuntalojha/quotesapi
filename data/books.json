@@ -1,380 +1,382 @@
-[
-  {
-    "book_no": 0,
-    "name": "Made By Kuntal",
-    "type": ["motivation", "self helf"],
-    "author": "Kuntal Ojha",
-    "total_page": false,
-    "price": false,
-    "buying_details": {
-      "type": false,
-      "place": false,
-      "shop_name": false,
-      "shop_location": false
+{
+  "books": [
+    {
+      "book_no": 0,
+      "name": "Made By Kuntal Or Collect By Kuntal",
+      "type": ["motivation", "self helf"],
+      "author": "Kuntal Ojha",
+      "total_page": false,
+      "price": false,
+      "buying_details": {
+        "type": false,
+        "place": false,
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 1,
+      "name": "Do It Today",
+      "type": ["self helf"],
+      "author": "Darius Foroux",
+      "total_page": 158,
+      "price": 164,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 2,
+      "name": "Think Straight",
+      "type": ["self helf"],
+      "author": "Darius Foroux",
+      "price": 100,
+      "total_page": 100,
+      "buying_details": {
+        "type": "Ofline",
+        "place": "Kolkata International Book Fair",
+        "shop_name": "Penguin Random House India PVT LTD",
+        "shop_location": "Hall-II, Stall-H42"
+      }
+    },
+    {
+      "book_no": 3,
+      "name": "Better Habits",
+      "type": ["self helf"],
+      "author": "Darius Foroux",
+      "price": 100,
+      "total_page": 118,
+      "buying_details": {
+        "type": "Ofline",
+        "place": "Kolkata International Book Fair",
+        "shop_name": "Penguin Random House India PVT LTD",
+        "shop_location": "Hall-II, Stall-H42"
+      }
+    },
+    {
+      "book_no": 4,
+      "name": "What It Takes To Be Free",
+      "type": ["self helf"],
+      "author": "Darius Foroux",
+      "price": 100,
+      "total_page": 125,
+      "buying_details": {
+        "type": "Ofline",
+        "place": "Kolkata International Book Fair",
+        "shop_name": "Penguin Random House India PVT LTD",
+        "shop_location": "Hall-II, Stall-H42"
+      }
+    },
+    {
+      "book_no": 5,
+      "name": "Win Your Inner Battles",
+      "type": ["self helf"],
+      "author": "Darius Foroux",
+      "price": 100,
+      "total_page": 130,
+      "buying_details": {
+        "type": "Ofline",
+        "place": "Kolkata International Book Fair",
+        "shop_name": "Penguin Random House India PVT LTD",
+        "shop_location": "Hall-II, Stall-H42"
+      }
+    },
+    {
+      "book_no": 6,
+      "name": "Focus On What Matters",
+      "type": ["self helf"],
+      "author": "Darius Foroux",
+      "price": 100,
+      "total_page": 274,
+      "buying_details": {
+        "type": "Ofline",
+        "place": "Kolkata International Book Fair",
+        "shop_name": "Penguin Random House India PVT LTD",
+        "shop_location": "Hall-II, Stall-H42"
+      }
+    },
+    {
+      "book_no": 7,
+      "name": "Make Epic Money",
+      "type": ["self helf", ""],
+      "author": "Ankur Warikoo",
+      "total_page": 330,
+      "price": 360,
+      "buying_details": {
+        "type": "Ofline",
+        "place": "Kolkata International Book Fair",
+        "shop_name": "Penguin Random House India PVT LTD",
+        "shop_location": "Hall-II, Stall-H42"
+      }
+    },
+    {
+      "book_no": 8,
+      "name": "Who Moved My Cheese",
+      "type": ["self helf"],
+      "author": "Dr Spencer Johnson",
+      "total_page": 96,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 9,
+      "name": "How To Finish Everything You Start",
+      "type": ["self helf"],
+      "author": "Jan Yager",
+      "total_page": 203,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 10,
+      "name": "The Power Of Self-Discipline NO-EXCUSES",
+      "type": ["self helf"],
+      "author": "Mr. Brian Tracy",
+      "total_page": 304,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 11,
+      "name": "Atomic Habits",
+      "type": ["self helf"],
+      "author": "James Clear",
+      "total_page": 271,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 12,
+      "name": "The Power of Subconscious Mind",
+      "type": ["self helf"],
+      "author": "Dr. Joseph Murphy",
+      "total_page": 309,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 13,
+      "name": "How to Win Friends and Influence People",
+      "type": ["self helf"],
+      "author": "Dale Carnegie",
+      "total_page": 288,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 14,
+      "name": "Attitude is Everything",
+      "type": ["self helf"],
+      "author": "Jeff Keller",
+      "total_page": 144,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 15,
+      "name": "Think and Grow Rich",
+      "type": ["self helf"],
+      "author": "Napoleon Hill",
+      "total_page": 331,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 16,
+      "name": "Zero to One",
+      "type": ["self helf"],
+      "author": "Peter Thiel",
+      "total_page": 224,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 17,
+      "name": "Rich Dad Poor Dad",
+      "type": ["self helf"],
+      "author": "Robert T.Kiyosaki",
+      "total_page": 352,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 18,
+      "name": "The Psychology Of Money",
+      "type": ["self helf"],
+      "author": "Morgan Housel",
+      "total_page": 220,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 19,
+      "name": "The Intelligent Investor",
+      "type": ["self helf"],
+      "author": "Benjamin Graham",
+      "total_page": 550,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 20,
+      "name": "The Art Of Seduction",
+      "type": ["self helf"],
+      "author": "Robert Greene",
+      "total_page": 256,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 21,
+      "name": "The 48 Laws Of Power ",
+      "type": ["self helf"],
+      "author": "Robert Greene",
+      "total_page": 649,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 22,
+      "name": "Ikigai",
+      "type": ["self helf"],
+      "author": "Darius Foroux",
+      "total_page": 208,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 23,
+      "name": "The Leader In You",
+      "type": ["self helf"],
+      "author": "Dale Carnegie",
+      "total_page": 208,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 24,
+      "name": "How to Read Better & Faster",
+      "type": ["english"],
+      "author": "N Lewis",
+      "total_page": 230,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 25,
+      "name": "Essential English Grammar",
+      "type": ["english", "grammer"],
+      "author": "Darius Foroux",
+      "total_page": 300,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
+    },
+    {
+      "book_no": 26,
+      "name": "Word Power Made Easy",
+      "type": ["english"],
+      "author": "Lewis Norman",
+      "total_page": 550,
+      "price": false,
+      "buying_details": {
+        "type": "Online",
+        "place": "Flipkart",
+        "shop_name": false,
+        "shop_location": false
+      }
     }
-  },
-  {
-    "book_no": 1,
-    "name": "Do It Today",
-    "type": ["self helf"],
-    "author": "Darius Foroux",
-    "total_page": 158,
-    "price": 164,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 2,
-    "name": "Think Straight",
-    "type": ["self helf"],
-    "author": "Darius Foroux",
-    "price": 100,
-    "total_page": 100,
-    "buying_details": {
-      "type": "Ofline",
-      "place": "Kolkata International Book Fair",
-      "shop_name": "Penguin Random House India PVT LTD",
-      "shop_location": "Hall-II, Stall-H42"
-    }
-  },
-  {
-    "book_no": 3,
-    "name": "Better Habits",
-    "type": ["self helf"],
-    "author": "Darius Foroux",
-    "price": 100,
-    "total_page": 118,
-    "buying_details": {
-      "type": "Ofline",
-      "place": "Kolkata International Book Fair",
-      "shop_name": "Penguin Random House India PVT LTD",
-      "shop_location": "Hall-II, Stall-H42"
-    }
-  },
-  {
-    "book_no": 4,
-    "name": "What It Takes To Be Free",
-    "type": ["self helf"],
-    "author": "Darius Foroux",
-    "price": 100,
-    "total_page": 125,
-    "buying_details": {
-      "type": "Ofline",
-      "place": "Kolkata International Book Fair",
-      "shop_name": "Penguin Random House India PVT LTD",
-      "shop_location": "Hall-II, Stall-H42"
-    }
-  },
-  {
-    "book_no": 5,
-    "name": "Win Your Inner Battles",
-    "type": ["self helf"],
-    "author": "Darius Foroux",
-    "price": 100,
-    "total_page": 130,
-    "buying_details": {
-      "type": "Ofline",
-      "place": "Kolkata International Book Fair",
-      "shop_name": "Penguin Random House India PVT LTD",
-      "shop_location": "Hall-II, Stall-H42"
-    }
-  },
-  {
-    "book_no": 6,
-    "name": "Focus On What Matters",
-    "type": ["self helf"],
-    "author": "Darius Foroux",
-    "price": 100,
-    "total_page": 274,
-    "buying_details": {
-      "type": "Ofline",
-      "place": "Kolkata International Book Fair",
-      "shop_name": "Penguin Random House India PVT LTD",
-      "shop_location": "Hall-II, Stall-H42"
-    }
-  },
-  {
-    "book_no": 7,
-    "name": "Make Epic Money",
-    "type": ["self helf", ""],
-    "author": "Ankur Warikoo",
-    "total_page": 330,
-    "price": 360,
-    "buying_details": {
-      "type": "Ofline",
-      "place": "Kolkata International Book Fair",
-      "shop_name": "Penguin Random House India PVT LTD",
-      "shop_location": "Hall-II, Stall-H42"
-    }
-  },
-  {
-    "book_no": 8,
-    "name": "Who Moved My Cheese",
-    "type": ["self helf"],
-    "author": "Dr Spencer Johnson",
-    "total_page": 96,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 9,
-    "name": "How To Finish Everything You Start",
-    "type": ["self helf"],
-    "author": "Jan Yager",
-    "total_page": 203,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 10,
-    "name": "The Power Of Self-Discipline NO-EXCUSES",
-    "type": ["self helf"],
-    "author": "Mr. Brian Tracy",
-    "total_page": 304,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 11,
-    "name": "Atomic Habits",
-    "type": ["self helf"],
-    "author": "James Clear",
-    "total_page": 271,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 12,
-    "name": "The Power of Subconscious Mind",
-    "type": ["self helf"],
-    "author": "Dr. Joseph Murphy",
-    "total_page": 309,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 13,
-    "name": "How to Win Friends and Influence People",
-    "type": ["self helf"],
-    "author": "Dale Carnegie",
-    "total_page": 288,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 14,
-    "name": "Attitude is Everything",
-    "type": ["self helf"],
-    "author": "Jeff Keller",
-    "total_page": 144,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 15,
-    "name": "Think and Grow Rich",
-    "type": ["self helf"],
-    "author": "Napoleon Hill",
-    "total_page": 331,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 16,
-    "name": "Zero to One",
-    "type": ["self helf"],
-    "author": "Peter Thiel",
-    "total_page": 224,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 17,
-    "name": "Rich Dad Poor Dad",
-    "type": ["self helf"],
-    "author": "Robert T.Kiyosaki",
-    "total_page": 352,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 18,
-    "name": "The Psychology Of Money",
-    "type": ["self helf"],
-    "author": "Morgan Housel",
-    "total_page": 220,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 19,
-    "name": "The Intelligent Investor",
-    "type": ["self helf"],
-    "author": "Benjamin Graham",
-    "total_page": 550,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 20,
-    "name": "The Art Of Seduction",
-    "type": ["self helf"],
-    "author": "Robert Greene",
-    "total_page": 256,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 21,
-    "name": "The 48 Laws Of Power ",
-    "type": ["self helf"],
-    "author": "Robert Greene",
-    "total_page": 649,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 22,
-    "name": "Ikigai",
-    "type": ["self helf"],
-    "author": "Darius Foroux",
-    "total_page": 208,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 23,
-    "name": "The Leader In You",
-    "type": ["self helf"],
-    "author": "Dale Carnegie",
-    "total_page": 208,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 24,
-    "name": "How to Read Better & Faster",
-    "type": ["english"],
-    "author": "N Lewis",
-    "total_page": 230,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 25,
-    "name": "Essential English Grammar",
-    "type": ["english", "grammer"],
-    "author": "Darius Foroux",
-    "total_page": 300,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  },
-  {
-    "book_no": 26,
-    "name": "Word Power Made Easy",
-    "type": ["english"],
-    "author": "Lewis Norman",
-    "total_page": 550,
-    "price": false,
-    "buying_details": {
-      "type": "Online",
-      "place": "Flipkart",
-      "shop_name": false,
-      "shop_location": false
-    }
-  }
-]
+  ]
+}

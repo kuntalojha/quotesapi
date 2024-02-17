@@ -1,97 +1,99 @@
-[
-  {
-    "no": 1,
-    "book_no": 1,
-    "topic": "Do It today, Not tomorrow.",
-    "sub_topic": [null],
-    "pages": "5-6",
-    "tips": [
-      "I exercise my mental toughness every day.",
-      "I exercise my body every day.",
-      "I have a set of daily habits that help me to be in control of my life.",
-      "I always have a list of small (but important)tasks that I have to complete.",
-      "I study and practice the science of persuasion to get my message across."
-    ]
-  },
-  {
-    "no": 2,
-    "book_no": 1,
-    "topic": "What I Do When I can,t focus.",
-    "sub_topic": [
-      "Eliminate. Eliminate. Eliminate",
-      "Think About Past Success"
-    ],
-    "pages": "7-11",
-    "tips": [
-      "Eliminate. Eliminate. Eliminate.",
-      "Think About Past Success",
-      "To improve your focus, boost your serotonin activity.Research shows that exercise can do that.",
-      " But something else, that's equally effective, and a lot easier is a simple mind-exercise.",
-      "All you need to do is remember positive events that happened in the past.",
-      "When serotonin goes up, your focus goes up. Ultimately, that's what you should do. I know that it sounds cheesy, but when something is wrong, you must fix it.",
-      "When I can't focus, the first thing I do is to acknowledge that I have a problem that needs a solution. Some people go through life without even acknowledging that they have problems.",
-      "1. No, it's not normal to check your phone every 2 minutes.",
-      "2. No, it's not normal to gossip all the time.",
-      "3. No, it's not normal to be bored."
-    ]
-  },
-  {
-    "no": 3,
-    "book_no": 1,
-    "topic": "How to beat procrastination - Backed by Science.",
-    "sub_topic": ["Beating Peocrastination"],
-    "pages": "12-16",
-    "tips": [
-      "You start working on a task, you're excited, you're focused,but then, after some time, you think: Let's read the news for a second. It always starts with just one thing.",
-      " Then, you think: I might as well watch one episode of Game Of Thrones. Then, a video on YouTube—and then another one. Then, a little bit of Instagram browsing. And so forth.",
-      " It always ends with a bang: “This is the last time I'm wasting my time!” Yeah, right.",
-      ""
-    ]
-  },
-  {
-    "no": 4,
-    "book_no": 1,
-    "topic": "How to beat procrastination - Backed by Science.",
-    "sub_topic": ["Willpower Doesn't Work. Systems Do"],
-    "pages": "16-17",
-    "tips": [
-      "What you really need is a system for doing work. A lot of people shy away from routines, systems and frameworks because they want to have “freedom.”",
-      "I'm sorry to disappoint you: Freedom is your enemy. The fact is that, if  you want to get things done, you need rules. What are some things that research proved to be effective?",
-      "1. Self-imposed deadlines.",
-      "2. Accountability systems (commitment with friends,or a coach).",
-      "3. Working/studying in intervals.",
-      "4. Exercising 30 minutes a day.",
-      "5. A healthy diet.",
-      "6. Eliminating distractions.",
-      "7. And most importantly: Internal motivation."
-    ]
-  },
-  {
-    "no": 5,
-    "book_no": 1,
-    "topic": "How to stop wasting time and improve your personal effectiveness.",
-    "sub_topic": [
-      "Step 1: Know Thy Time",
-      "Step 2: Identify The Non-Productive Work."
-    ],
-    "pages": "18-20",
-    "tips": [
-      "If you don't measure your time, it's tough to stop procrastination or improve your productivity. Because if you want to manage your time better, you have to know where it goes first. Your memory is not sufficient. If I asked you what you were doing exactly one week ago at this time, would you have an answer? There you go. How do you know your time? Keep an activity log. Before I even have a real session with clients, I often ask them to keep an activity log for two weeks. An activity log is exactly what you imagine — an hour by hour record of what you're doing throughout the day.",
-      "This step is actually very simple. I just have one question for you:“Go through all the  recurring activities in your log one by one. What would happen if you would stop doing them?” If the answer is: “All hell breaks loose.” Don't change anything. But if your answer is: “Nothing would happen.” You've hit gold. We all do activities that have ZERO return. I call those activities time-wasters."
-    ]
-  },
-  {
-    "no": 6,
-    "book_no": 1,
-    "topic": "How to stop wasting time and improve your personal effectiveness.",
-    "sub_topic": ["Step 3: Eliminate The Time-Wasters"],
-    "pages": "20-21",
-    "tips": [
-      "Boom. That's it. Know where your time goes. Identify the critical tasks from the trivial tasks in your life. And cut the trivial, time-wasting, tasks. “That simple?” Yes. If you want to be a super effective person, you regularly keep a log. You don't have to keep a log for 365 days a year. Instead, do two stretches of two-three weeks a year. That's enough to keep track of your time and identify new time-wasters. Also, the additional benefit of such a simple exercise is that it forces you to think about your daily routine. Often, we start time-wasting activities, and they become habits. And if you don't become aware of the pointless behavior, it's difficult to break those bad habits. I've found this exercise to be one of the most powerful things in productivity. Start now. Your activity log probably looks something like this:",
-      "(insert time) — Read Darius Foroux' article about keeping a time-log and started my own time-log.",
-      "(insert time) — Turned off my phone and got back to (whatever you were working on).",
-      "(insert time) — Browsed the news, Facebook,Instagram. And watched YouTube videos. (Be honest with yourself. Shit happens).",
-      "(insert time) — responded to emails. Great. I'm happy to see that you started. Now keep going for another two weeks"
-    ]
-  }
-]
+{
+  "selfHelpTips": [
+    {
+      "no": 1,
+      "book_no": 1,
+      "topic": "Do It today, Not tomorrow.",
+      "sub_topic": [null],
+      "pages": "5-6",
+      "tips": [
+        "I exercise my mental toughness every day.",
+        "I exercise my body every day.",
+        "I have a set of daily habits that help me to be in control of my life.",
+        "I always have a list of small (but important)tasks that I have to complete.",
+        "I study and practice the science of persuasion to get my message across."
+      ]
+    },
+    {
+      "no": 2,
+      "book_no": 1,
+      "topic": "What I Do When I can,t focus.",
+      "sub_topic": [
+        "Eliminate. Eliminate. Eliminate",
+        "Think About Past Success"
+      ],
+      "pages": "7-11",
+      "tips": [
+        "Eliminate. Eliminate. Eliminate.",
+        "Think About Past Success",
+        "To improve your focus, boost your serotonin activity.Research shows that exercise can do that.",
+        " But something else, that's equally effective, and a lot easier is a simple mind-exercise.",
+        "All you need to do is remember positive events that happened in the past.",
+        "When serotonin goes up, your focus goes up. Ultimately, that's what you should do. I know that it sounds cheesy, but when something is wrong, you must fix it.",
+        "When I can't focus, the first thing I do is to acknowledge that I have a problem that needs a solution. Some people go through life without even acknowledging that they have problems.",
+        "1. No, it's not normal to check your phone every 2 minutes.",
+        "2. No, it's not normal to gossip all the time.",
+        "3. No, it's not normal to be bored."
+      ]
+    },
+    {
+      "no": 3,
+      "book_no": 1,
+      "topic": "How to beat procrastination - Backed by Science.",
+      "sub_topic": ["Beating Peocrastination"],
+      "pages": "12-16",
+      "tips": [
+        "You start working on a task, you're excited, you're focused,but then, after some time, you think: Let's read the news for a second. It always starts with just one thing.",
+        " Then, you think: I might as well watch one episode of Game Of Thrones. Then, a video on YouTube—and then another one. Then, a little bit of Instagram browsing. And so forth.",
+        " It always ends with a bang: “This is the last time I'm wasting my time!” Yeah, right.",
+        ""
+      ]
+    },
+    {
+      "no": 4,
+      "book_no": 1,
+      "topic": "How to beat procrastination - Backed by Science.",
+      "sub_topic": ["Willpower Doesn't Work. Systems Do"],
+      "pages": "16-17",
+      "tips": [
+        "What you really need is a system for doing work. A lot of people shy away from routines, systems and frameworks because they want to have “freedom.”",
+        "I'm sorry to disappoint you: Freedom is your enemy. The fact is that, if  you want to get things done, you need rules. What are some things that research proved to be effective?",
+        "1. Self-imposed deadlines.",
+        "2. Accountability systems (commitment with friends,or a coach).",
+        "3. Working/studying in intervals.",
+        "4. Exercising 30 minutes a day.",
+        "5. A healthy diet.",
+        "6. Eliminating distractions.",
+        "7. And most importantly: Internal motivation."
+      ]
+    },
+    {
+      "no": 5,
+      "book_no": 1,
+      "topic": "How to stop wasting time and improve your personal effectiveness.",
+      "sub_topic": [
+        "Step 1: Know Thy Time",
+        "Step 2: Identify The Non-Productive Work."
+      ],
+      "pages": "18-20",
+      "tips": [
+        "If you don't measure your time, it's tough to stop procrastination or improve your productivity. Because if you want to manage your time better, you have to know where it goes first. Your memory is not sufficient. If I asked you what you were doing exactly one week ago at this time, would you have an answer? There you go. How do you know your time? Keep an activity log. Before I even have a real session with clients, I often ask them to keep an activity log for two weeks. An activity log is exactly what you imagine — an hour by hour record of what you're doing throughout the day.",
+        "This step is actually very simple. I just have one question for you:“Go through all the  recurring activities in your log one by one. What would happen if you would stop doing them?” If the answer is: “All hell breaks loose.” Don't change anything. But if your answer is: “Nothing would happen.” You've hit gold. We all do activities that have ZERO return. I call those activities time-wasters."
+      ]
+    },
+    {
+      "no": 6,
+      "book_no": 1,
+      "topic": "How to stop wasting time and improve your personal effectiveness.",
+      "sub_topic": ["Step 3: Eliminate The Time-Wasters"],
+      "pages": "20-21",
+      "tips": [
+        "Boom. That's it. Know where your time goes. Identify the critical tasks from the trivial tasks in your life. And cut the trivial, time-wasting, tasks. “That simple?” Yes. If you want to be a super effective person, you regularly keep a log. You don't have to keep a log for 365 days a year. Instead, do two stretches of two-three weeks a year. That's enough to keep track of your time and identify new time-wasters. Also, the additional benefit of such a simple exercise is that it forces you to think about your daily routine. Often, we start time-wasting activities, and they become habits. And if you don't become aware of the pointless behavior, it's difficult to break those bad habits. I've found this exercise to be one of the most powerful things in productivity. Start now. Your activity log probably looks something like this:",
+        "(insert time) — Read Darius Foroux' article about keeping a time-log and started my own time-log.",
+        "(insert time) — Turned off my phone and got back to (whatever you were working on).",
+        "(insert time) — Browsed the news, Facebook,Instagram. And watched YouTube videos. (Be honest with yourself. Shit happens).",
+        "(insert time) — responded to emails. Great. I'm happy to see that you started. Now keep going for another two weeks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "quotes": [
+    {
+      "no": 1,
+      "book_no": 0,
+      "quote": "Never say no to an opp.",
+      "category": ["self-help"],
+      "keyword": ["death"],
+      "details": [{ "author": "Darius Foroux", "page": false }]
+    },
+    {
+      "no": 2,
+      "book_no": 1,
+      "quote": "Every single second we're getting closer to death.",
+      "category": ["self-help"],
+      "keyword": ["death"],
+      "details": [{ "author": "Darius Foroux", "page": 10 }]
+    }
+  ]
+}
