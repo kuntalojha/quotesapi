@@ -1,248 +1,246 @@
-{
-  "quoteapi": [
-    {
-      "no": 1,
-      "book_no": 1,
-      "quote": "Every single second we're getting closer to death.",
-      "category": ["self-help"],
-      "keyword": ["death"],
-      "details": [{ "author": "Darius Foroux", "page": 10 }]
-    },
-    {
-      "no": 2,
-      "book_no": 1,
-      "quote": "Every second we invest in something is time that we can never get back.",
-      "category": ["self-help"],
-      "keyword": ["death", "time"],
-      "details": [{ "author": "Darius Foroux", "page": 10 }]
-    },
-    {
-      "no": 3,
-      "book_no": 1,
-      "quote": "What you do today determines where you will be in a year, two years, and even ten years from now.",
-      "category": ["self-help", "motivation"],
-      "keyword": ["today", "year"],
-      "details": [{ "author": "Darius Foroux", "page": 10 }]
-    },
-    {
-      "no": 4,
-      "book_no": 1,
-      "quote": "No matter what happens, I do the important things today - Not Tomorrow.",
-      "category": ["self-help", "motivation"],
-      "keyword": ["important"],
-      "details": [{ "author": "Darius Foroux", "page": 11 }]
-    },
-    {
-      "no": 5,
-      "book_no": 1,
-      "quote": "Do it Today. Do it now. No more procrastination. No more feeling sorry. No more regrets.",
-      "category": ["self-help"],
-      "keyword": ["today", "procrastination", "feeling"],
-      "details": [{ "author": "Darius Foroux", "page": 11 }]
-    },
-    {
-      "no": 6,
-      "book_no": 1,
-      "quote": "No more procrastination. No more feeling sorry. No more regrets.",
-      "category": ["self-help"],
-      "keyword": ["feeling", "procrastination"],
-      "details": [{ "author": "Darius Foroux", "page": 11 }]
-    },
-    {
-      "no": 7,
-      "book_no": 1,
-      "quote": "Life is good If you know how to live it.",
-      "category": ["self-help", "motivation"],
-      "keyword": ["good", "life", "live"],
-      "details": [{ "author": "Darius Foroux", "page": 10 }]
-    },
-    {
-      "no": 8,
-      "book_no": 1,
-      "quote": "You cannot escape the responsibility of tomorrow by evading it today.",
-      "category": ["self-help", "motivation"],
-      "keyword": ["responsibility", "today"],
-      "details": [{ "author": "Abraham Lincoln", "page": false }]
-    },
-    {
-      "no": 9,
-      "book_no": 1,
-      "quote": "Resistance is always lying and always full of shit.",
-      "category": ["motivation"],
-      "keyword": ["lying"],
-      "details": [{ "author": "Darius Foroux", "page": 5 }]
-    },
-    {
-      "no": 10,
-      "book_no": 1,
-      "quote": "Do It Today. Not Tomorrow.",
-      "category": ["motivation"],
-      "keyword": ["today"],
-      "details": [{ "author": "Darius Foroux", "page": 5 }]
-    },
-    {
-      "no": 11,
-      "book_no": 1,
-      "quote": "Work on it today.Not tomorrow.",
-      "category": ["motivation"],
-      "keyword": ["today"],
-      "details": [{ "author": "Darius Foroux", "page": 6 }]
-    },
-    {
-      "no": 12,
-      "book_no": 1,
-      "quote": "Focus on your life. Think about what matters to you. Then, do those things and don't get distracted — stayon the path. Good luck.",
-      "category": ["self-help", "motivation"],
-      "keyword": ["good", "life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": 11 }]
-    },
-    {
-      "This is a json comment": "start from here today ",
-      "date": "07-02-2024"
-    },
-    {
-      "no": 13,
-      "book_no": 1,
-      "quote": "Procrastination is not innocent behavior. It's a sign of poor self-regulation.",
-      "category": ["self-help", "motivation"],
-      "keyword": ["poor", "procrastination"],
-      "details": [{ "author": "Darius Foroux", "page": 14 }]
-    },
-    {
-      "no": 14,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 15,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 16,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 17,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 18,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 19,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 20,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 21,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 22,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 23,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 24,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 25,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 26,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 27,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 28,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 29,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    },
-    {
-      "no": 30,
-      "book_no": 1,
-      "quote": ".",
-      "category": ["self-help", "motivation"],
-      "keyword": ["life", "think"],
-      "details": [{ "author": "Darius Foroux", "page": null }]
-    }
-  ]
-}
+[
+  {
+    "no": 1,
+    "book_no": 1,
+    "quote": "Every single second we're getting closer to death.",
+    "category": ["self-help"],
+    "keyword": ["death"],
+    "details": [{ "author": "Darius Foroux", "page": 10 }]
+  },
+  {
+    "no": 2,
+    "book_no": 1,
+    "quote": "Every second we invest in something is time that we can never get back.",
+    "category": ["self-help"],
+    "keyword": ["death", "time"],
+    "details": [{ "author": "Darius Foroux", "page": 10 }]
+  },
+  {
+    "no": 3,
+    "book_no": 1,
+    "quote": "What you do today determines where you will be in a year, two years, and even ten years from now.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["today", "year"],
+    "details": [{ "author": "Darius Foroux", "page": 10 }]
+  },
+  {
+    "no": 4,
+    "book_no": 1,
+    "quote": "No matter what happens, I do the important things today - Not Tomorrow.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["important"],
+    "details": [{ "author": "Darius Foroux", "page": 11 }]
+  },
+  {
+    "no": 5,
+    "book_no": 1,
+    "quote": "Do it Today. Do it now. No more procrastination. No more feeling sorry. No more regrets.",
+    "category": ["self-help"],
+    "keyword": ["today", "procrastination", "feeling"],
+    "details": [{ "author": "Darius Foroux", "page": 11 }]
+  },
+  {
+    "no": 6,
+    "book_no": 1,
+    "quote": "No more procrastination. No more feeling sorry. No more regrets.",
+    "category": ["self-help"],
+    "keyword": ["feeling", "procrastination"],
+    "details": [{ "author": "Darius Foroux", "page": 11 }]
+  },
+  {
+    "no": 7,
+    "book_no": 1,
+    "quote": "Life is good If you know how to live it.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["good", "life", "live"],
+    "details": [{ "author": "Darius Foroux", "page": 10 }]
+  },
+  {
+    "no": 8,
+    "book_no": 1,
+    "quote": "You cannot escape the responsibility of tomorrow by evading it today.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["responsibility", "today"],
+    "details": [{ "author": "Abraham Lincoln", "page": false }]
+  },
+  {
+    "no": 9,
+    "book_no": 1,
+    "quote": "Resistance is always lying and always full of shit.",
+    "category": ["motivation"],
+    "keyword": ["lying"],
+    "details": [{ "author": "Darius Foroux", "page": 5 }]
+  },
+  {
+    "no": 10,
+    "book_no": 1,
+    "quote": "Do It Today. Not Tomorrow.",
+    "category": ["motivation"],
+    "keyword": ["today"],
+    "details": [{ "author": "Darius Foroux", "page": 5 }]
+  },
+  {
+    "no": 11,
+    "book_no": 1,
+    "quote": "Work on it today.Not tomorrow.",
+    "category": ["motivation"],
+    "keyword": ["today"],
+    "details": [{ "author": "Darius Foroux", "page": 6 }]
+  },
+  {
+    "no": 12,
+    "book_no": 1,
+    "quote": "Focus on your life. Think about what matters to you. Then, do those things and don't get distracted — stayon the path. Good luck.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["good", "life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": 11 }]
+  },
+  {
+    "This is a json comment": "start from here today ",
+    "date": "07-02-2024"
+  },
+  {
+    "no": 13,
+    "book_no": 1,
+    "quote": "Procrastination is not innocent behavior. It's a sign of poor self-regulation.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["poor", "procrastination"],
+    "details": [{ "author": "Darius Foroux", "page": 14 }]
+  },
+  {
+    "no": 14,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 15,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 16,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 17,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 18,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 19,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 20,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 21,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 22,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 23,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 24,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 25,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 26,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 27,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 28,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 29,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  },
+  {
+    "no": 30,
+    "book_no": 1,
+    "quote": ".",
+    "category": ["self-help", "motivation"],
+    "keyword": ["life", "think"],
+    "details": [{ "author": "Darius Foroux", "page": null }]
+  }
+]
