@@ -1,18 +1,106 @@
 [
   {
-    "no": 1,
-    "book_id": 0,
-    "quote": "Never say no to an opp.",
-    "category": ["self-help"],
-    "keyword": ["death"],
-    "details": [{ "author": "Darius Foroux", "page": false }]
-  },
-  {
-    "no": 2,
+    "id": 1,
     "book_id": 1,
     "quote": "Every single second we're getting closer to death.",
     "category": ["self-help"],
     "keyword": ["death"],
-    "details": [{ "author": "Darius Foroux", "page": 10 }]
+    "details": { "author": "Darius Foroux", "page": 10 }
+  },
+  {
+    "id": 2,
+    "book_id": 1,
+    "quote": "Every second we invest in something is time that we can never get back.",
+    "category": ["self-help"],
+    "keyword": ["death", "time"],
+    "details": { "author": "Darius Foroux", "page": 10 }
+  },
+  {
+    "id": 3,
+    "book_id": 1,
+    "quote": "What you do today determines where you will be in a year, two years, and even ten years from idw.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["today", "year"],
+    "details": { "author": "Darius Foroux", "page": 10 }
+  },
+  {
+    "id": 4,
+    "book_id": 1,
+    "quote": "No matter what happens, I do the important things today - Not Tomorrow.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["important"],
+    "details": { "author": "Darius Foroux", "page": 11 }
+  },
+  {
+    "id": 5,
+    "book_id": 1,
+    "quote": "Do it Today. Do it now. No more procrastination. No more feeling sorry. No more regrets.",
+    "category": ["self-help"],
+    "keyword": ["today", "procrastination", "feeling"],
+    "details": { "author": "Darius Foroux", "page": 11 }
+  },
+  {
+    "id": 6,
+    "book_id": 1,
+    "quote": "No more procrastination. No more feeling sorry. No more regrets.",
+    "category": ["self-help"],
+    "keyword": ["feeling", "procrastination"],
+    "details": { "author": "Darius Foroux", "page": 11 }
+  },
+  {
+    "id": 7,
+    "book_id": 1,
+    "quote": "Life is good If you know how to live it.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["good", "life", "live"],
+    "details": { "author": "Darius Foroux", "page": 10 }
+  },
+  {
+    "id": 8,
+    "book_id": 1,
+    "quote": "You cannot escape the responsibility of tomorrow by evading it today.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["responsibility", "today"],
+    "details": { "author": "Abraham Lincoln", "page": false }
+  },
+  {
+    "id": 9,
+    "book_id": 1,
+    "quote": "Resistance is always lying and always full of shit.",
+    "category": ["motivation"],
+    "keyword": ["lying"],
+    "details": { "author": "Darius Foroux", "page": 5 }
+  },
+  {
+    "id": 10,
+    "book_id": 1,
+    "quote": "Do It Today. Not Tomorrow.",
+    "category": ["motivation"],
+    "keyword": ["today"],
+    "details": { "author": "Darius Foroux", "page": 5 }
+  },
+  {
+    "id": 11,
+    "book_id": 1,
+    "quote": "Work on it today.Not tomorrow.",
+    "category": ["motivation"],
+    "keyword": ["today"],
+    "details": { "author": "Darius Foroux", "page": 6 }
+  },
+  {
+    "id": 12,
+    "book_id": 1,
+    "quote": "Focus on your life. Think about what matters to you. Then, do those things and don't get distracted — stayon the path. Good luck.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["good", "life", "think"],
+    "details": { "author": "Darius Foroux", "page": 11 }
+  },
+  {
+    "id": 13,
+    "book_id": 1,
+    "quote": "Procrastination is not innocent behavior. It's a sign of poor self-regulation.",
+    "category": ["self-help", "motivation"],
+    "keyword": ["poor", "procrastination"],
+    "details": { "author": "Darius Foroux", "page": 14 }
   }
 ]
