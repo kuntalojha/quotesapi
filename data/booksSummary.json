@@ -1,6 +1,6 @@
 [
   {
-    "book_no": 1,
+    "book_id": 1,
     "name": "Do It Today",
     "type": ["self helf"],
     "author": "Darius Foroux",
@@ -21,7 +21,7 @@
     "summary_author": "Kuntal Ojha"
   },
   {
-    "book_no": 1,
+    "book_ni": 1,
     "name": "Do It Today",
     "type": ["self helf"],
     "author": "Darius Foroux",

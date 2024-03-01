@@ -2,44 +2,39 @@ import mongoose from 'mongoose';
 
 const quotesSchema = new mongoose.Schema(
   {
-    no: {
+    id: {
       type: Number,
-      required: true,
-      default: 0,
+      required: [true, 'Please enter no'],
+      default: 1,
     },
     book_no: {
       type: Number,
-      require: true,
+      required: [true, 'Please enter book no'],
       default: 1,
     },
     quote: {
       type: String,
-      require: true,
+      required: [true, 'Please enter your Quote'],
     },
     category: {
-      type: Array,
-      require: true,
+      type: [String],
+      required: [true, 'Please enter category.'],
     },
     keyword: {
-      type: Array,
-      require: true,
-    },
-    auther: {
-      type: String,
-      require: true,
-      default: 'Darius Foroux!',
-    },
-    page: {
-      type: Number,
-      require: true,
-      default: 0,
+      type: [String],
+      required: [true, 'Please enter keyword.'],
     },
     details: {
-      auther: String,
-      page: Number,
-      type: Array,
-      require: true,
-      default: { author: 'Darius Foroux!!', page: 11 },
+      author: {
+        type: String,
+        default: 'Darius Foroux',
+        required: true,
+      },
+      page: {
+        type: Number,
+        default: 10,
+        required: true,
+      },
     },
   },
   {

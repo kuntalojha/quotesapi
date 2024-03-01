@@ -1,6 +1,6 @@
 [
   {
-    "book_no": 0,
+    "book_id": 0,
     "name": "Made By Kuntal Or Collect By Kuntal",
     "type": ["motivation", "self helf"],
     "author": "Kuntal Ojha",
@@ -14,7 +14,7 @@
     }
   },
   {
-    "book_no": 1,
+    "book_id": 1,
     "name": "Do It Today",
     "type": ["self helf"],
     "author": "Darius Foroux",
@@ -28,7 +28,7 @@
     }
   },
   {
-    "book_no": 2,
+    "book_id": 2,
     "name": "Think Straight",
     "type": ["self helf"],
     "author": "Darius Foroux",
@@ -42,7 +42,7 @@
     }
   },
   {
-    "book_no": 3,
+    "book_id": 3,
     "name": "Better Habits",
     "type": ["self helf"],
     "author": "Darius Foroux",
@@ -56,7 +56,7 @@
     }
   },
   {
-    "book_no": 4,
+    "book_id": 4,
     "name": "What It Takes To Be Free",
     "type": ["self helf"],
     "author": "Darius Foroux",
@@ -70,7 +70,7 @@
     }
   },
   {
-    "book_no": 5,
+    "book_id": 5,
     "name": "Win Your Inner Battles",
     "type": ["self helf"],
     "author": "Darius Foroux",
@@ -84,7 +84,7 @@
     }
   },
   {
-    "book_no": 6,
+    "book_id": 6,
     "name": "Focus On What Matters",
     "type": ["self helf"],
     "author": "Darius Foroux",
@@ -98,7 +98,7 @@
     }
   },
   {
-    "book_no": 7,
+    "book_id": 7,
     "name": "Make Epic Money",
     "type": ["self helf", ""],
     "author": "Ankur Warikoo",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "book_no": 8,
+    "book_id": 8,
     "name": "Who Moved My Cheese",
     "type": ["self helf"],
     "author": "Dr Spencer Johnson",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "book_no": 9,
+    "book_id": 9,
     "name": "How To Finish Everything You Start",
     "type": ["self helf"],
     "author": "Jan Yager",
@@ -140,7 +140,7 @@
     }
   },
   {
-    "book_no": 10,
+    "book_id": 10,
     "name": "The Power Of Self-Discipline NO-EXCUSES",
     "type": ["self helf"],
     "author": "Mr. Brian Tracy",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "book_no": 11,
+    "book_id": 11,
     "name": "Atomic Habits",
     "type": ["self helf"],
     "author": "James Clear",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "book_no": 12,
+    "book_id": 12,
     "name": "The Power of Subconscious Mind",
     "type": ["self helf"],
     "author": "Dr. Joseph Murphy",
@@ -182,7 +182,7 @@
     }
   },
   {
-    "book_no": 13,
+    "book_id": 13,
     "name": "How to Win Friends and Influence People",
     "type": ["self helf"],
     "author": "Dale Carnegie",
@@ -196,7 +196,7 @@
     }
   },
   {
-    "book_no": 14,
+    "book_id": 14,
     "name": "Attitude is Everything",
     "type": ["self helf"],
     "author": "Jeff Keller",
@@ -210,7 +210,7 @@
     }
   },
   {
-    "book_no": 15,
+    "book_id": 15,
     "name": "Think and Grow Rich",
     "type": ["self helf"],
     "author": "Napoleon Hill",
@@ -224,7 +224,7 @@
     }
   },
   {
-    "book_no": 16,
+    "book_id": 16,
     "name": "Zero to One",
     "type": ["self helf"],
     "author": "Peter Thiel",
@@ -238,7 +238,7 @@
     }
   },
   {
-    "book_no": 17,
+    "book_id": 17,
     "name": "Rich Dad Poor Dad",
     "type": ["self helf"],
     "author": "Robert T.Kiyosaki",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "book_no": 18,
+    "book_id": 18,
     "name": "The Psychology Of Money",
     "type": ["self helf"],
     "author": "Morgan Housel",
@@ -266,7 +266,7 @@
     }
   },
   {
-    "book_no": 19,
+    "book_id": 19,
     "name": "The Intelligent Investor",
     "type": ["self helf"],
     "author": "Benjamin Graham",
@@ -280,7 +280,7 @@
     }
   },
   {
-    "book_no": 20,
+    "book_id": 20,
     "name": "The Art Of Seduction",
     "type": ["self helf"],
     "author": "Robert Greene",
@@ -294,7 +294,7 @@
     }
   },
   {
-    "book_no": 21,
+    "book_id": 21,
     "name": "The 48 Laws Of Power ",
     "type": ["self helf"],
     "author": "Robert Greene",
@@ -308,7 +308,7 @@
     }
   },
   {
-    "book_no": 22,
+    "book_id": 22,
     "name": "Ikigai",
     "type": ["self helf"],
     "author": "Darius Foroux",
@@ -322,7 +322,7 @@
     }
   },
   {
-    "book_no": 23,
+    "book_id": 23,
     "name": "The Leader In You",
     "type": ["self helf"],
     "author": "Dale Carnegie",
@@ -336,7 +336,7 @@
     }
   },
   {
-    "book_no": 24,
+    "book_id": 24,
     "name": "How to Read Better & Faster",
     "type": ["english"],
     "author": "N Lewis",
@@ -350,7 +350,7 @@
     }
   },
   {
-    "book_no": 25,
+    "book_id": 25,
     "name": "Essential English Grammar",
     "type": ["english", "grammer"],
     "author": "Darius Foroux",
@@ -364,7 +364,7 @@
     }
   },
   {
-    "book_no": 26,
+    "book_id": 26,
     "name": "Word Power Made Easy",
     "type": ["english"],
     "author": "Lewis Norman",
