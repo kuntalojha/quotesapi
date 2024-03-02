@@ -104,7 +104,16 @@ app.get('/api/quote/random', async (req, res) => {
   }
 });
 
-// delete quote
+// delete quote using id
+app.delete('/api/quotes/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const deleteQuote = await Quote.deleteOne({ id: parseInt(id) });
+    res.status(200).json(deleteQuote);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
 
 // Add book
 app.post('/api/books', async (req, res) => {
@@ -192,8 +201,16 @@ app.get('/api/book/random', async (req, res) => {
   }
 });
 
-// delete 
-
+// delete book by id
+app.delete('/api/books/:book_id', async (req, res) => {
+  try {
+    const { book_id } = req.params;
+    const deleteBook = await Book.deleteOne({ book_id: parseInt(book_id) });
+    res.status(200).json(deleteBook);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}.`);
