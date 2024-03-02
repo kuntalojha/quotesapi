@@ -29,6 +29,27 @@ app.post('/api/quotes', async (req, res) => {
   }
 });
 
+// update quote using id
+app.put('/api/quotes/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    // console.log(id);
+    const quote = await Quote.find({ id: id });
+    // console.log(quote);
+    if (!quote) {
+      return res.status(404).json({ message: 'Product not found!' });
+    }
+
+    const updatedQuote = await Quote.findOneAndUpdate(
+      { id: parseInt(id) },
+      req.body
+    );
+    res.status(200).json(updatedQuote);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
+
 // get all quotes
 app.get('/api/quotes', async (req, res) => {
   try {
@@ -83,11 +104,35 @@ app.get('/api/quote/random', async (req, res) => {
   }
 });
 
+// delete quote
+
 // Add book
 app.post('/api/books', async (req, res) => {
   try {
     const book = await Book.create(req.body);
     res.status(200).json(book);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
+
+// update book using id
+app.put('/api/books/:book_id', async (req, res) => {
+  try {
+    const { book_id } = req.params;
+    console.log(book_id);
+    const book = await Book.find({ book_id: book_id });
+    console.log(book);
+    if (!book) {
+      return res.status(404).json({ message: 'Product not found!' });
+    }
+
+    const updatedBook = await Book.findOneAndUpdate(
+      { book_id: parseInt(book_id) },
+      req.body
+    );
+    console.log(req.body);
+    res.status(200).json(updatedBook);
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
@@ -146,6 +191,10 @@ app.get('/api/book/random', async (req, res) => {
     res.status(500).json({ message: error.message });
   }
 });
+
+// delete 
+
+
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}.`);
 });
