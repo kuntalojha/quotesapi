@@ -5,8 +5,7 @@ const quotesSchema = new mongoose.Schema(
     id: {
       type: Number,
       required: [true, 'Please enter id'],
-      default: 1,
-      unique:[true, 'Please enter unique id'],
+      unique: [true, 'Please enter unique id'],
     },
     book_id: {
       type: Number,
