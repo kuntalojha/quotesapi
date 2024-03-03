@@ -3,6 +3,7 @@ import mongoose from 'mongoose';
 
 import quoteRoute from './routes/quote.route.js';
 import bookRoute from './routes/book.route.js';
+import randomRoute from './routes/random.route.js';
 
 const app = express();
 const PORT = 3000;
@@ -24,6 +25,8 @@ app.use('/api/quotes', quoteRoute);
 // This is add quoteRoute
 app.use('/api/books', bookRoute);
 
+app.use('/api/quote/', randomRoute);
+app.use('/api/book/', randomRoute);
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}.`);

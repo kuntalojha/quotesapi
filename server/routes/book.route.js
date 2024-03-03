@@ -5,7 +5,6 @@ import {
   deleteBook,
   getBook,
   getBooks,
-  getRandomBook,
   updateBook,
 } from '../controllers/book.controller.js';
 
@@ -22,10 +21,6 @@ router.get('/', getBooks);
 
 // get Book from database using Book id
 router.get('/:id', getBook);
-
-// Not working properly
-// get random Book from database using Book id
-router.get('/random', getRandomBook);
 
 // delete Book from from database using Book id
 router.delete('/:id', deleteBook);
