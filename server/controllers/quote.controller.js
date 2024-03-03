@@ -83,41 +83,6 @@ export const getRandomQuote = async (req, res) => {
   }
 };
 
-// export const getRandomQuote = async (req, res) => {
-//   try {
-//     // Find the total number of quotes
-//     const totalQuotes = await Quote.countDocuments();
-//     console.log(totalQuotes);
-//     // Generate a random index (0 to totalQuotes) within the range of the total number of quotes
-//     const randomIndex = Math.floor(Math.random() * totalQuotes);
-//     console.log(randomIndex);
-//     const randomQuote = await Quote.findOne({ id: parseInt(randomIndex) });
-
-//     // Return the random quote
-//     res.status(200).json(randomQuote);
-//   } catch (error) {
-//     res.status(500).json({ message: error.message });
-//   }
-// };
-
-// export const getRandomQuote = async (req, res) => {
-//   try {
-//     // Find the total number of quotes
-//     const totalQuotes = await Quote.countDocuments();
-
-//     // Generate a random index (0 to totalQuotes) within the range of the total number of quotes
-//     const randomIndex = Math.floor(Math.random() * totalQuotes);
-
-//     // Find a random quote using the generated random index
-//     const randomQuote = await Quote.findOne().skip(randomIndex);
-
-//     // Return the random quote
-//     res.status(200).json(randomQuote);
-//   } catch (error) {
-//     res.status(500).json({ message: error.message });
-//   }
-// };
-
 // Not work properly
 // This is use for delete quote using id from database
 export const deleteQuote = async (req, res) => {
