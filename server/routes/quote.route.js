@@ -8,10 +8,6 @@ import {
   updateQuote,
 } from '../controllers/quote.controller.js';
 
-import {
-  getRandomBook,
-  getRandomQuote,
-} from '../controllers/random.controller.js';
 const router = express.Router();
 
 // post the data or insert data into the database
