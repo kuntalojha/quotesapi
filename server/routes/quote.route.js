@@ -23,6 +23,7 @@ router.get('/', getQuotes);
 // get quote from database using quote id
 router.get('/:id', getQuote);
 
+// Not working properly
 // get random Quote from database using quote id
 router.get('/random', getRandomQuote);
 
